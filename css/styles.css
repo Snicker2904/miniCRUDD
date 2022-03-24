@@ -33,3 +33,18 @@ a {
 a:hover {
   color: red;
 }
+
+.info {
+  height: 400px;
+  width: 80%;
+  margin: 50px;
+  background-color: white;
+  opacity: 80%;
+}
+
+.infotekst {
+  height: 400px;
+  width: 50%;
+  padding-top: 20px;
+  padding-left: 20px;
+}
