@@ -40,11 +40,12 @@ a:hover {
   margin: 50px;
   background-color: white;
   opacity: 80%;
+  display: flex;
 }
 
 .infotekst {
   height: 400px;
-  width: 50%;
+  width: 60%;
   padding-top: 20px;
   padding-left: 20px;
 }
