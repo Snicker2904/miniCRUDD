@@ -49,3 +49,8 @@ a:hover {
   padding-top: 20px;
   padding-left: 20px;
 }
+
+.infoimage {
+  height: 100%;
+  width: 40%;
+}
