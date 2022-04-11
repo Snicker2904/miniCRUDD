@@ -54,3 +54,27 @@ a:hover {
   height: 100%;
   width: 40%;
 }
+
+.menu {
+  height: 100%;
+  width: 100%;
+  display: flex;
+}
+
+.menu1 {
+  height: 500px;
+  width: 30%;
+  margin-left: 180px;
+  margin-top: 50px;
+  background-color: white;
+  opacity: 80%;
+}
+
+.menu2 {
+  height: 500px;
+  width: 30%;
+  margin-left: 125px;
+  margin-top: 50px;
+  background-color: white;
+  opacity: 80%;
+}
