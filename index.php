@@ -16,10 +16,10 @@
                 <img class="logo" src="images/logo.png" alt="Afbeelding logo">
               </div>
                 <ul>
-                  <li><a href="index.html">Home</a></li>
-                  <li><a href="menu.html">Menu</a></li>
-                  <li><a href="bestellen.html">Bestellen</a></li>
-                  <li><a href="reserveren.html">Reserveren</a></li>
+                  <li><a href="index.php">Home</a></li>
+                  <li><a href="menu.php">Menu</a></li>
+                  <li><a href="bestellen.php">Bestellen</a></li>
+                  <li><a href="reserveren.php">Reserveren</a></li>
                 </ul>
               </div>
             </div>
